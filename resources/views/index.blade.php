@@ -8,6 +8,6 @@
 </head>
 <body>
 
-    test <?php echo $userName; ?>
+    task 1
 </body>
 </html>
