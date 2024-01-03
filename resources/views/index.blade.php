@@ -8,6 +8,6 @@
 </head>
 <body>
 
-    test <?php echo $userName; ?>
+    modification for T2
 </body>
 </html>
